@@ -4,8 +4,11 @@ Utility program to run tsm commands
 
 ## Setup
 
-1. pip install cryptography
-2. Run encrypt.py to generate key file for password encryption and encrypt the password for sys account
+1. Run pip install cryptography
+
+2. Run encrypt.py encrypt the password for sys account. Paste the encrypted pwd string to tsm.py config.
+
+3. asd
 
 ## Heading 3
 
