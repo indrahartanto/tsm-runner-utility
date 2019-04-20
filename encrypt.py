@@ -9,10 +9,6 @@ def encrypt_string(key):
     encrypted = f.encrypt(pwd)
     print "Encrypted pwd (to copy to config file): ", encrypted
 
-    # decrypt msg
-    decrypted = f.decrypt(encrypted)
-    print(decrypted)
-
 if os.path.exists("key.key"):
     # load key file
     file = open('key.key', 'rb')
