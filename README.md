@@ -1,6 +1,6 @@
 # tsm-runner-utility
 
-Utility program to run tsm commands
+Utility program to run tsm command
 
 ## Setup
 
